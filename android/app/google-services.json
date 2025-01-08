@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "115461327372",
+    "firebase_url": "https://advanceemi-f3818-default-rtdb.firebaseio.com",
+    "project_id": "advanceemi-f3818",
+    "storage_bucket": "advanceemi-f3818.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115461327372:android:195d0edc840987b55a3c29",
+        "android_client_info": {
+          "package_name": "com.finance.advanceemicalculator.loanemi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWzVW0fdQlvY9Op0CkXZRkhIXpCQ4GL9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115461327372:android:ba18c1b14476f1955a3c29",
+        "android_client_info": {
+          "package_name": "com.finance.loanemiadvance.emicalculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWzVW0fdQlvY9Op0CkXZRkhIXpCQ4GL9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,103 @@
+name: advance_emi
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+4
+
+environment:
+  sdk: ^3.5.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  flutter_screenutil: ^5.9.3
+  connectivity_wrapper: ^1.1.4
+  get: 4.6.6
+  intl: ^0.19.0
+  fl_chart: ^0.69.0
+  path_provider: ^2.0.11
+  pdf: ^3.8.1
+  share_plus: ^10.0.2
+  permission_handler: ^11.3.1
+  flutter_rating_bar: ^4.0.1
+  url_launcher: ^6.3.0
+  device_info_plus: ^10.1.2
+  app_settings: ^5.1.1
+  shimmer: ^3.0.0
+  firebase_core: ^3.3.0
+  google_mobile_ads: ^5.1.0
+  shared_preferences: ^2.2.3
+  sqflite: ^2.3.3+1
+  firebase_database: ^11.0.4
+  firebase_analytics: ^11.2.1
+  firebase_messaging: ^15.0.4
+  flutter_local_notifications: ^17.2.2
+  cr_file_saver: ^0.0.2+1
+  carousel_slider: ^5.0.0
+  cached_network_image: ^3.4.1
+
+
+
+
+
+
+  path: any
+dev_dependencies:
+  flutter_lints: ^4.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/images/
+    - assets/images/place/
+    - assets/icons/
+    - assets/fonts/
+    - assets/bank_ifsc/
+
+  fonts:
+    - family: NotoSans
+      fonts:
+        - asset: assets/fonts/NotoSans-Black.ttf
+          weight: 900
+        - asset: assets/fonts/NotoSans-BlackItalic.ttf
+          weight: 900
+          style: italic
+        - asset: assets/fonts/NotoSans-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/NotoSans-BoldItalic.ttf
+          weight: 700
+          style: italic
+        - asset: assets/fonts/NotoSans-ExtraBold.ttf
+          weight: 800
+        - asset: assets/fonts/NotoSans-ExtraBoldItalic.ttf
+          weight: 800
+          style: italic
+        - asset: assets/fonts/NotoSans-ExtraLight.ttf
+          weight: 200
+        - asset: assets/fonts/NotoSans-ExtraLightItalic.ttf
+          weight: 200
+          style: italic
+        - asset: assets/fonts/NotoSans-Light.ttf
+          weight: 300
+        - asset: assets/fonts/NotoSans-LightItalic.ttf
+          weight: 300
+          style: italic
+        - asset: assets/fonts/NotoSans-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/NotoSans-MediumItalic.ttf
+          weight: 500
+          style: italic
+        - asset: assets/fonts/NotoSans-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/NotoSans-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/NotoSans-SemiBoldItalic.ttf
+          weight: 600
+          style: italic
+        - asset: assets/fonts/NotoSans-Thin.ttf
+          weight: 100
+        - asset: assets/fonts/NotoSans-ThinItalic.ttf
+          weight: 100
+          style: italic
+  uses-material-design: true
